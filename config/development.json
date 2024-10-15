@@ -1,3 +1,4 @@
 {
-    "MONGODB_URI": "mongodb+srv://fahad:WXX6mMBb8q6qS6E@cluster0.vz7c8.mongodb.net/17?retryWrites=true&w=majority"
+    "MONGODB_URI": "mongodb+srv://fahad:WXX6mMBb8q6qS6E@cluster0.vz7c8.mongodb.net/"
 }
+
